@@ -1,4 +1,4 @@
-##Banco de Dados orientado a Grafos 
+##Banco de Dados orientado a Grafos###
 
 O projeto que será apresentado utiliza Banco de Dados que serão orientados a grafos, por meio do SGBD Neo4j, que tem como objetivo catalogar filmes e seus gêneros correspondentes, para organização e facilidade ao escolher um filme para ser assistido.
 
